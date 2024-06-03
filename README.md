@@ -18,3 +18,8 @@ List of LeetCode questions with detailed explanations for personal reference.
 - [LeetCode Problem Link](https://leetcode.com/problems/score-of-a-string/description/)
 - [LeetCode Solution Post](https://leetcode.com/problems/score-of-a-string/solutions/5254582/simple-o-n-c-solution/)
 - [GitHub File](https://github.com/sultalish/leetcode-solutions/blob/main/3110-ScoreofaString.md)
+
+# 6/3/2024 Container with Most Water (Medium)
+- [LeetCode Problem Link](https://leetcode.com/problems/container-with-most-water)
+- [LeetCode Solution Post](https://leetcode.com/problems/container-with-most-water/solutions/5255110/simple-o-n-solution-c/)
+- [GitHub File](https://github.com/sultalish/leetcode-solutions/blob/main/11-ContainerWithMostWater.md)
