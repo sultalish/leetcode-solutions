@@ -30,7 +30,7 @@ Given a string `s`, find the length of the longest substring without repeating c
 - `0 <= s.length <= 5 * 10^4`
 - `s` consists of English letters, digits, symbols and spaces.
 
-## Solution O(n^2)
+## Solution O(n^2) - C#
 
 ```csharp
 public class Solution {
