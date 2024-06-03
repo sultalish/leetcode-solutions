@@ -8,3 +8,8 @@ List of LeetCode questions with detailed explanations for personal reference.
 # 6/3/2024 - Add Two Numbers (Medium)
 - [LeetCode Problem Link](https://leetcode.com/problems/add-two-numbers/)
 - [GitHub File](https://github.com/sultalish/leetcode-solutions/blob/main/2-AddTwoNumbers.md)
+
+# 6/3/2024 - Append Characters to String to Make Subsequence (Medium)
+- [LeetCode Problem Link](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)
+- [LeetCode Solution Post](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/solutions/5254441/simple-o-max-s-length-t-length-solution-c/)
+- [GitHub File](https://github.com/sultalish/leetcode-solutions/blob/main/2486-AppendCharacterstoStringtoMakeSubsequence.md)
