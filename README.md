@@ -7,4 +7,4 @@ List of LeetCode questions with detailed explanations for personal reference.
 
 # 6/3/2024 - Add Two Numbers
 - [LeetCode Problem Link](https://leetcode.com/problems/add-two-numbers/)
-- [GitHub File]([https://github.com/sultalish/leetcode-solutions/blob/main/2-AddTwoNumbers](https://github.com/sultalish/leetcode-solutions/blob/main/2-AddTwoNumbers.md))
+- [GitHub File]([https://github.com/sultalish/leetcode-solutions/blob/main/2-AddTwoNumbers](https://github.com/sultalish/leetcode-solutions/blob/main/2-AddTwoNumbers.md)
